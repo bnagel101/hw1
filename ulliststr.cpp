@@ -2,7 +2,6 @@
 #include <stdexcept>
 #include "ulliststr.h"
 #include <iostream>
-using namespace std;
 
 ULListStr::ULListStr()
 {
